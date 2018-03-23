@@ -21,7 +21,7 @@
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
-    "gulp-eslint": "^3.0.1",
+    "gulp-eslint": "^4.0.0",
     "gulp-stylelint": "^3.9.0",
     "gulp-watch": "^4.3.6",
     "jasmine-core": "^2.4.1",
